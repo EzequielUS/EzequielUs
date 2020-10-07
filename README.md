@@ -8,7 +8,7 @@ Backend Skills:  ![Python](https://img.shields.io/badge/-Python-grey?style=plast
 
 Tools: ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
-- 🎓 Im currently learning new technologies and creating my firsts projects
+- 🎓 Im currently learning new technologies and creating my first projects
 
 - 🐍 Python Enthusiast
 

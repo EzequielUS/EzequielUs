@@ -16,8 +16,5 @@ Tools: ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git) ![
 
 ------------
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=EzequielUs&show_icons=true)
-
-------------
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielUs)
 
